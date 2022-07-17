@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and computer science.
 - 🌱 I’m currently learning frontend development.
 - 💞️ I’m looking to collaborate on any web related project.
-- 📫 How to reach me: Twitter: @samcc06
+<!--- - 📫 How to reach me: --->
 
 <!---
 samc01/samc01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
