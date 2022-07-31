@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samc01
 - 👀 I’m interested in web development and computer science.
 - 🌱 I’m currently learning frontend development.
-- 💞️ I’m looking to collaborate on any web related project.
+<!--- - 💞️ I’m looking to collaborate on any web related project. --->
 <!--- - 📫 How to reach me: --->
 
 <!---
